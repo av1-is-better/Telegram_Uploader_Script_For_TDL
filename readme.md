@@ -1,6 +1,3 @@
-Here’s a `README.md` for your repository:  
-
-```markdown
 # Telegram Uploader Script for TDL
 
 This repository contains a Bash script that creates a multi-part split ZIP archive and uploads the files to Telegram using [TDL](https://github.com/tdlib/tdl). 
@@ -78,6 +75,5 @@ This project is open-source and available under the MIT License.
 ### ⚠ Disclaimer
 
 Use this script responsibly. The repository owner is not responsible for any misuse.
-```
 
 Let me know if you need any modifications! 🚀
