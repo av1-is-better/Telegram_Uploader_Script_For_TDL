@@ -11,15 +11,15 @@ then
 	# Iterating Through All The Positional Arguments
 	for x in "$@";
 	do
-    	# ENV VARIABLES
+    		# ENV VARIABLES
 		TG_INDEX_CHANNEL_ID="YOUR_INDEX_CHANNEL_ID"
-        TG_FILES_CHANNEL_ID="YOUR_FILES_CHANNEL_ID"
+        	TG_FILES_CHANNEL_ID="YOUR_FILES_CHANNEL_ID"
 		# Login Token Path (generate using tdl)
 		TDL_CONFIG_PATH="/home/ubuntu/tdl-token/token.json"
 
 		echo -e "\e[36m=====================================\e[0m"
-	    echo -e "\e[33m          Telegram Uploader          \e[0m"
-	    echo -e "\e[36m=====================================\e[0m\n"
+	    	echo -e "\e[33m          Telegram Uploader          \e[0m"
+	    	echo -e "\e[36m=====================================\e[0m\n"
 
 
 		# Creating Temp Dir For Storing Zip Split Parts
